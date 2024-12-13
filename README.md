@@ -11,3 +11,6 @@ kimchengoeng/kimchengoeng is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <img  src="https://static.vecteezy.com/system/resources/thumbnails/022/385/025/small/a-cute-surprised-black-haired-anime-girl-under-the-blooming-sakura-ai-generated-photo.jpg" >
+
+ <a href='https://www.free-counters.org/'>powered by Free-Counters</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=038cb9a53648889798d0107b6ff1d50ba258e27d'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1276834/t/3"></script>
