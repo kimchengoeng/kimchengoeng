@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @kimchengoeng
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on ... (Website Project..)
-- 📫 How to reach me: FB: Oeng Kimcheng
-- 😄 Pronouns: Oeng Kimcheng (usayyy)
-- ⚡ Fun fact: ...
-
 <!---
 kimchengoeng/kimchengoeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -37,5 +29,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=kimchengoeng&show_icons=true&theme=tokyonight" />
 </p>
 > “Learn deeply. Build honestly. Break things safely.” ⚡
+
+- 👋 Hi, I’m @kimchengoeng
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Cybersecurity
+- 💞️ I’m looking to collaborate on ... (Website Project..)
+- 📫 How to reach me: FB: Oeng Kimcheng
+- 😄 Pronouns: Oeng Kimcheng (usayyy)
+- ⚡ Fun fact: ...
 
 
