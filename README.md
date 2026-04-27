@@ -29,15 +29,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kimchengoeng&show_icons=true&theme=tokyonight" />
 </p>
 > “Learn deeply. Build honestly. Break things safely.” ⚡
+
+- 👀 I’m interested in ... 
 --->
 - 👋 Hi, I’m @kimchengoeng
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Cybersecurity
-- 💞️ I’m looking to collaborate on ... (Website Project..)
+- 💞️ I’m looking to collaborate on Cyber project, Web project....
 - 📫 How to reach me: FB: Oeng Kimcheng
-- 😄 Pronouns: Oeng Kimcheng (usayyy)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Mood Changer
+
 
 Updating upcoming 
-
-
