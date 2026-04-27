@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+KimCheng+👋;Penetration+Tester;Backend+Developer+in+Progress;Cybersecurity+Enthusiast;Learning+Every+Day+🚀" />
 </p>
+<!---
 <img
   src="https://static.vecteezy.com/system/resources/thumbnails/070/998/617/small/front-view-of-black-luxury-car-in-smoky-setting-photo.jpg"
   style="width:100%; max-width:900px;"
@@ -29,7 +30,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=kimchengoeng&show_icons=true&theme=tokyonight" />
 </p>
 > “Learn deeply. Build honestly. Break things safely.” ⚡
-
+--->
 - 👋 Hi, I’m @kimchengoeng
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Cybersecurity
