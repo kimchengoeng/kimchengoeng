@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @kimchengoeng
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Cyber project, Web project....
-- 📫 How to reach me: IG: chengkim.jul :Gmail: kimchengoeng@gmail.com
+- 📫 How to reach me: kimchengoeng@gmail.com, ig: chengkim.jul 
 - ⚡ Fun fact: Mood Changer
 
 
